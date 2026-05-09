@@ -28,6 +28,12 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rutujabhavar&theme=github_dark" />
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p>
