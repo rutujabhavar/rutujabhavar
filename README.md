@@ -1,6 +1,6 @@
 
 <h5 align="center">
-<h1>Hi 👋, I'm Rutuja<h1>
+<h1 align="center">Hi 👋, I'm Rutuja<h1>
 <br><br>
 Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 </h5>
