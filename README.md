@@ -5,7 +5,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full Stack Web Developer (MERN);Software Developer;Java | DSA " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer+(MERN);Software+Developer;Java+Developer;Data+Structures+%26+Algorithms+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 👩‍💻 About Me
