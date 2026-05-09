@@ -1,7 +1,8 @@
 
-<h5 align="center">Hi 👋, I'm Rutuja
-  
-Full Stack Web Developer (MERN) | Software Developer | Java | DSA  
+<h5 align="center">
+Hi 👋, I'm Rutuja
+<br><br>
+Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 </h5>
 
 <h1></h1>
