@@ -5,6 +5,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 </h3>
 
 ---
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Rutuja%20Bhavar&fontSize=40)
 
 ### 👩‍💻 About Me
 - 🎓 Pursuing Bsc.Computer Science- '27
