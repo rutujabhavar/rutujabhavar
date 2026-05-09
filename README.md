@@ -16,7 +16,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rutujabhavar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+---
 ### 🔗 Connect With Me
 
 <p align="left">
