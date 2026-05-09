@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rutuja
+<h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h5 align="center">
 Full Stack Web Developer (MERN) | Software Developer | Java | DSA  
-</h5></h1>
+</h5>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer+(MERN);Software+Developer;Java+Developer;Data+Structures+%26+Algorithms+Enthusiast" alt="Typing SVG" />
@@ -14,6 +14,8 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 - 🚀 Building Real Projects
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujabhavar&layout=compact&theme=tokyonight" />
 
 ### 🔗 Connect With Me
 
