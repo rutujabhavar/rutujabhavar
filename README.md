@@ -13,7 +13,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);Software+Developer;Java+DSA" alt="Typing SVG" />
 </p>
 
-
+<h1></h1>
 
 ### 👩‍💻 About Me
 - 🎓 Pursuing Bsc.Computer Science- '27
@@ -21,7 +21,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 - 🌱 Learning New Technology
 - 🚀 Building Real Projects
 
----
+<h1></h1>
 
 
 
@@ -39,7 +39,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 </a>
 </p>
 
----
+<h1></h1>
 
 
 
@@ -49,7 +49,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,vscode,python,mongodb,nodeJs"/>
 </p>
 
----
+<h1></h1>
 
 ## 📊 GitHub Stats
 
@@ -57,7 +57,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rutujabhavar&theme=github_dark" />
 </p>
 
----
+<h1></h1>
 
 ### 🏆Profile Trophy Section 
 
