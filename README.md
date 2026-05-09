@@ -53,7 +53,7 @@ Full Stack Web Developer (MERN) | Software Developer | Java | DSA
 
 ## 📊 GitHub Stats
 
-<h1></h1>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rutujabhavar&theme=github_dark" />
